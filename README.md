@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @raph
-- 👀 I’m interested in analysing odds of sport betting exchanges and computational finance.
-- 💞️ I’m looking to collaborate on ideas to get an advantage on betting exchanges.
-- 📫 How to reach me: raphael.n.frach@gmail.com
+
